@@ -3,7 +3,7 @@
 Soy un desarrollador front-end creativo. 
 Amante de las tecnologías y buscador de soluciones optimizadas de productos y servicios. 
 Soy un desarrollador junior que busca el norte de las nuevas tecnologías. 
-Actualmente estoy aprendiendo react native y solidity como otros complementos para trabajar con contactos inteligentes.
+Actualmente estoy aprendiendo react native y solidity como otros complementos para trabajar con contratos inteligentes.
 <!---
 - https://www.linkedin.com/in/kerwynarias/
 -instragram @ariasdevs
