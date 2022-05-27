@@ -12,7 +12,7 @@
 const typed = new Typed('.typed', {
 	strings:['Desing Web',
 	 'E-commerce',
-	 'Dising Apps',
+	 'Desing Apps',
 	 'Consulting SEO',
 	 'Marketing',
 	 'testing software',
