@@ -4,7 +4,7 @@
 
 #### 😀 I am a Front-end Developer and Designer, creative, passionate about blockchain technologies and living my life as a Freelancer..
 #### 🗺️ Passionate about seeing new places.
-#### 🎸play the ukulele
+#### 🎸play the ukelele
 #### 💻I am currently working on my personal brand Digital services 
 
 ### Skills that I develop
