@@ -2,15 +2,15 @@
 <h1> actualizando</h1>
   
 <h1> Hi, my name is Kerwyn Arias, you welcome my profile</h1>
-..js
-const typed = new Typed('.typed', {
-	strings:['Desing & Developers front end',
-	 'Html, css, javascripts',
+
+_const typed = new Typed('.typed', {
+	strings:['Desing & Developers front end',..
+	 'Html, css, javascripts',...
 	 'Flutter',
    'Design UX-IU',
 	 'Consultoría SEO',
    'testing software',
-   'Crypto enthusiastic',
+   'Crypto enthusiastic'
    'design nocode',
   ],
 	 loop: true,
