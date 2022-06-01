@@ -24,7 +24,8 @@ const typed = new Typed('.typed', {
 	 backDelay: 2000
   });
 
- AtTheMoment: "🔗 Blockchain development: smart contract and decentralized application development with web3.js"
+ AtTheMoment: "🔗 Blockchain development: smart contract and decentralized
+ application development with web3.js"
 
 };
 
