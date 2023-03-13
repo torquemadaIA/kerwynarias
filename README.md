@@ -12,11 +12,11 @@ Actualizando repositorio
 ```javascript
 const typed = new Typed('.typed', {
 	strings:['Desing Web',
-	 'E-commerce',
-	 'Desing Apps',
-	 'Consulting SEO',
-	 'Marketing',
-	 'testing software',
+	 'html',
+	 'css',
+	 'javascritp',
+	 'react',
+	 'Flutter',
   ],
 	 loop: true,
 	 typeSpeed: 100,
