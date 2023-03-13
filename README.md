@@ -1,14 +1,14 @@
 ![banner1](https://user-images.githubusercontent.com/73326157/170785720-bd604200-103f-4477-82ee-545436e9a286.png)
 
 Actualizando repositorio
-### <h1>Hi there, my name is "Kerwyn Arias",Your welcome my profile</h1>
+### <h1>Hola, mi nombre es "Kerwyn Arias" Bienvenido</h1>
 
-#### 😀 I am a Front-end Developer and Designer, creative, passionate about blockchain technologies and living my life as a Freelancer..
-#### 🗺️ Passionate about seeing new places.
-#### 🎸play the ukelele
-#### 💻I am currently working on my personal brand Digital services 
+#### 😀 Soy Diseñador y desarrollador front-end, creativo, apasionado por las tecnologías, curioso y viviendo como nomada digital..
+#### 🗺️ Apasionado por conocer nuevos lugares.
+#### 🎸ukelele
+#### 💻Actualmente estoy trabajando en mi marca personal de Servicios y soluciones digitales.
 
-### Skills that I develop
+### Skills that I developers
 ```javascript
 const typed = new Typed('.typed', {
 	strings:['Desing Web',
