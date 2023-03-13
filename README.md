@@ -11,11 +11,11 @@ Actualizando repositorio
 ### Skills that I developers
 ```javascript
 const typed = new Typed('.typed', {
-	strings:['Desing Web',
+	strings:['Desing Web', 'Diseño grafico', 'Testing de software',
 	 'html',
-	 'css',
-	 'javascritp',
-	 'react',
+	 'css', 'bootstrap', 'tailwind',
+	 'javascritp', 'php', 'phyton',
+	 'react' 'no me gusta angular',
 	 'Flutter',
   ],
 	 loop: true,
