@@ -1,9 +1,9 @@
 ![banner1](https://user-images.githubusercontent.com/73326157/170785720-bd604200-103f-4477-82ee-545436e9a286.png)
 
 Actualizando repositorio
-### <h1>Hola, mi nombre es "Kerwyn Arias" Bienvenido</h1>
+### <h1>Hola, mi nombre es "Kerwyn Arias" </h1>
 
-#### 😀 Soy Diseñador y desarrollador front-end, creativo, apasionado por las tecnologías, curioso y viviendo como nomada digital..
+#### 😀 Soy Diseñador y desarrollador full stark, creativo, apasionado por las tecnologías, curioso y viviendo como nomada digital..
 #### 🗺️ Apasionado por conocer nuevos lugares.
 #### 🎸ukelele
 #### 💻Actualmente estoy trabajando en mi marca personal de Servicios y soluciones digitales.
@@ -14,8 +14,8 @@ const typed = new Typed('.typed', {
 	strings:['Desing Web', 'Diseño grafico', 'Testing de software',
 	 'html',
 	 'css', 'bootstrap', 'tailwind',
-	 'javascritp', 'php', 'phyton',
-	 'react' 'no me gusta angular',
+	 'javascritp', 'php', 'phyton', 'vue',
+	 'react', 'laravel', 'no me gusta angular',
 	 'Flutter',
   ],
 	 loop: true,
