@@ -1,4 +1,4 @@
-![banner1](https://user-images.githubusercontent.com/73326157/170785720-bd604200-103f-4477-82ee-545436e9a286.png)
+
 
 Actualizando repositorio
 ### <h1>Hola, mi nombre es "K" </h1>
